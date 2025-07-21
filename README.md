@@ -8,7 +8,7 @@ This repository contains my professional resume, showcasing my skills and experi
 
 You can view the latest PDF version of my resume directly here:
 
-* **[View Raunak Sachdeva's Resume (PDF)]([https://github.com/RaunakSachdeva2004/Raunak-Sachdeva-Resume/blob/main/Raunak_Sachdeva_Resume.pdf](https://github.com/RaunakSachdeva2004/Raunak-Sachdeva-Resume/blob/main/Final%20Resume%20Rauank.pdf))**
+* **[View Raunak Sachdeva's Resume (PDF)](https://github.com/RaunakSachdeva2004/Raunak-Sachdeva-Resume/blob/main/Final%20Resume%20Rauank.pdf)**
 
 ---
 
