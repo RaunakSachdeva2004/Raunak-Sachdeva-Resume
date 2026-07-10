@@ -4,14 +4,6 @@ This repository contains my professional resume, showcasing my skills and experi
 
 ---
 
-## **View My Resume**
-
-You can view the latest PDF version of my resume directly here:
-
-* **[View Raunak Sachdeva's Resume (PDF)](https://github.com/RaunakSachdeva2004/Raunak-Sachdeva-Resume/blob/main/Resume-Jan2026.pdf)**
-
----
-
 
 ## **About This Resume**
 
@@ -37,15 +29,6 @@ Feel free to connect or reach out:
 * **LinkedIn:** [linkedin.com/in/raunak-sachdev](https://www.linkedin.com/in/raunak-sachdev)
 * **GitHub:** [github.com/RaunakSachdeva2004](https://github.com/RaunakSachdeva2004)
 * **X (Twitter):** [x.com/RaunakSachdeva_](https://x.com/RaunakSachdeva_)
-
----
-
-## **Repository Contents**
-
-* `Raunak_Sachdeva_Resume.pdf`: The compiled PDF version of my resume.
-* `resume_faangpath.tex`: The primary LaTeX source file for the resume.
-* `README.md`: This file.
-* `.gitignore`: Specifies files to be ignored by Git (e.g., LaTeX compilation artifacts).
 
 ---
 
